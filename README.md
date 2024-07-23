@@ -2,7 +2,7 @@
 
 A simple and user-friendly web application to track your financial transactions.
 
-<mark>## Table of Contents</mark>
+<mark> Table of Contents</mark>
 - [<mark>Description</mark>](#description)
 - [<mark>Features</mark>](#features)
 - [<mark>Technologies Used</mark>](#technologies-used)
@@ -12,21 +12,21 @@ A simple and user-friendly web application to track your financial transactions.
 - [<mark>License</mark>](#license)
 - [<mark>Contact</mark>](#contact)
 
-<mark>## Description</mark>
+<mark>  Description</mark>
 Finance Tracker is a web application that allows you to manage your income and expenses efficiently. Keep track of your financial transactions and get insights into your spending habits.
 
-<mark>## Features</mark>
+<mark>  Features</mark>
 - Add and categorize transactions (income and expenses)
 - View transaction history
 - Generate summary reports
 - Simple and intuitive user interface
 
-<mark>## Technologies Used</mark>
+<mark>  Technologies Used</mark>
 - HTML
 - CSS
 - JavaScript
 
-<mark>## Installation</mark>
+<mark>  Installation</mark>
 To run this project locally, follow these steps:
 
 1. Clone the repository:
@@ -60,5 +60,5 @@ This project is licensed under the MIT License.
 <mark>## Contact</mark>
 Feel free to reach out with any questions or suggestions!
 
-- GitHub: [saurav-3001N](https://github.com/CyberNinjaSaurav)
+- GitHub: [CyberNinjaSaurav](https://github.com/CyberNinjaSaurav)
 - Email: saurav2021ptu@gmail.com
